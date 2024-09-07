@@ -16,4 +16,4 @@
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-README file and division files operation are not finished, will be finished.
+README file and division operation files are not finished, will be finished.
